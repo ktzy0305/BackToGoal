@@ -1,0 +1,6 @@
+framework module Pods_BackToGoal {
+  umbrella header "Pods-BackToGoal-umbrella.h"
+
+  export *
+  module * { export * }
+}
